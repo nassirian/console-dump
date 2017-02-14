@@ -1,0 +1,14 @@
+{
+  "name": "console-dump",
+  "version": "0.0.1",
+  "description": "dump variables and trace it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iman Nassirian",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
