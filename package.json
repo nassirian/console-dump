@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
 
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nassirian/console-dump.git"
+  },
+
 }
