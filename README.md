@@ -12,5 +12,5 @@ there is no need to assign a name to package
 ```js
 require('console-dump')
 console.dump('test') // show all filename and line number with variable
-console.trace(); //show  trace
+console.trace('test'); //show  trace
 ```

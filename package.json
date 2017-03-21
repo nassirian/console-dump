@@ -1,6 +1,6 @@
 {
   "name": "console-dump",
-  "version": "0.0.5",
+  "version": "0.0.51",
   "description": "dump variables and trace it",
   "main": "index.js",
   "scripts": {
